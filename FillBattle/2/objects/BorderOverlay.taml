@@ -1,0 +1,11 @@
+<CompositeSprite
+    Name = "BorderOverlay"
+    SceneLayer = "10"
+    DefaultSpriteSize = "5 5"
+    DefaultSpriteStride = "5 5"
+    BatchLayout = "rect" >
+    <CompositeSprite.Behaviors>
+        <DrawBorderBehavior />
+        <CenterPositionBehavior />
+    </CompositeSprite.Behaviors>
+</CompositeSprite>

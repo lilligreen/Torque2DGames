@@ -1,0 +1,64 @@
+<Scene
+    Name="GameScene" >
+    <Sprite
+        Name = "RedColor"
+        Image = "FillBattle:SixColors"
+        Frame = "0"
+        Size = "10 10"
+        Position = "44 30"
+        UseInputEvents = "1" >
+        <Sprite.Behaviors>
+            <ButtonBehavior />
+        </Sprite.Behaviors>
+    </Sprite>
+    <Sprite
+        Image = "FillBattle:SixColors"
+        Frame = "1"
+        Size = "10 10"
+        Position = "44 19"
+        UseInputEvents = "1" >
+        <Sprite.Behaviors>
+            <ButtonBehavior />
+        </Sprite.Behaviors>
+    </Sprite>
+    <Sprite
+        Image = "FillBattle:SixColors"
+        Frame = "2"
+        Size = "10 10"
+        Position = "44 8"
+        UseInputEvents = "1" >
+        <Sprite.Behaviors>
+            <ButtonBehavior />
+        </Sprite.Behaviors>
+    </Sprite>
+    <Sprite
+        Image = "FillBattle:SixColors"
+        Frame = "3"
+        Size = "10 10"
+        Position = "44 -3"
+        UseInputEvents = "1" >
+        <Sprite.Behaviors>
+            <ButtonBehavior />
+        </Sprite.Behaviors>
+    </Sprite>
+    <Sprite
+        Image = "FillBattle:SixColors"
+        Frame = "4"
+        Size = "10 10"
+        Position = "44 -14"
+        UseInputEvents = "1" >
+        <Sprite.Behaviors>
+            <ButtonBehavior />
+        </Sprite.Behaviors>
+    </Sprite>
+    <Sprite
+        Image = "FillBattle:SixColors"
+        Frame = "5"
+        Size = "10 10"
+        Position = "44 -25"
+        UseInputEvents = "1" >
+        <Sprite.Behaviors>
+            <ButtonBehavior />
+        </Sprite.Behaviors>
+    </Sprite>
+</Scene>

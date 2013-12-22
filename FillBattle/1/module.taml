@@ -1,0 +1,12 @@
+<ModuleDefinition
+    ModuleId = "FillBattle"
+    VersionId = "1"
+    Dependencies = "AppCore=1"
+    ScriptFile = "module.cs"
+    CreateFunction = "create"
+    DestroyFunction = "destroy">
+    <DeclaredAssets
+        Path = "assets"
+        Extension = "asset.taml"
+        Recurse = "true"/>
+</ModuleDefinition>

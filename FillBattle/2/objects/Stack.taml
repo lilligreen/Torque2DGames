@@ -1,0 +1,5 @@
+<ScriptObject>
+    <ScriptObject.Behaviors>
+        <StackBehavior />
+    </ScriptObject.Behaviors>
+</ScriptObject>

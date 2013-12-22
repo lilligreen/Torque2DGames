@@ -1,0 +1,10 @@
+<CompositeSprite
+    Name = "TileBoard"
+    DefaultSpriteSize = "5 5"
+    DefaultSpriteStride = "5 5"
+    BatchLayout = "rect" >
+    <CompositeSprite.Behaviors>
+        <RandomFillBehavior />
+        <CenterPositionBehavior />
+    </CompositeSprite.Behaviors>
+</CompositeSprite>

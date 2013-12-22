@@ -1,0 +1,8 @@
+<ImageAsset
+    AssetName = "SixColors"
+    ImageFile = "SixColors.png"
+    CellCountX = "4"
+    CellCountY = "2"
+    CellWidth = "64"
+    CellHeight = "64"
+    FilterMode = "NEAREST" />
